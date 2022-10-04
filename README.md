@@ -1,4 +1,10 @@
-# **<div align="center">SKILL / JOB RECOMMENDER</div>**
+<div align="center">
+
+# **SKILL / JOB RECOMMENDER**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+
+</div>
 <br>
 
 ## Project ID
