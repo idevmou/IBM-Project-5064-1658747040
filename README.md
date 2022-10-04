@@ -1,4 +1,4 @@
-**<span style="text-align:center; font-size:50px;">SKILL / JOB RECOMMENDER</span>**
+**<span align="center">SKILL / JOB RECOMMENDER</span>**
 <br>
 ##IBM-Project-5064-1658747040
 > WEB APPLICATION CAPABLE OF DISPLAYING THE CURRENT JOB OPENINGS BASED ON THE SKILLSET OF THE USERS.
