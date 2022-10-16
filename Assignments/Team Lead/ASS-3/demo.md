@@ -1,8 +1,8 @@
-<img src="./assets/images/Screenshot 1.png"  align="center" alt="drawing" />
+<img src="https://mouli-ass-3.s3.us-south.cloud-object-storage.appdomain.cloud/Screenshot 1"  align="center" alt="drawing" />
 <br>
-<img src="./assets/images/Screenshot 2.png"  align="center" alt="drawing" />
+<img src="https://mouli-ass-3.s3.us-south.cloud-object-storage.appdomain.cloud/Screenshot 2"  align="center" alt="drawing" />
 <br>
-<img src="./assets/images/Screenshot 3.png"  align="center" alt="drawing" />
+<img src="https://mouli-ass-3.s3.us-south.cloud-object-storage.appdomain.cloud/Screenshot 3"  align="center" alt="drawing" />
 <br>
-<img src="./assets/images/Screenshot 4.png"  align="center" alt="drawing" />
+<img src="https://mouli-ass-3.s3.us-south.cloud-object-storage.appdomain.cloud/Screenshot 4"  align="center" alt="drawing" />
 
