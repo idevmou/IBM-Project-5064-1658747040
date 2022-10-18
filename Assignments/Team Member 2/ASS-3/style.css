@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.img4  {
+    width: 416px;
+    height: 416px;
+}
+
+.img5  {
+    width: 416px;
+    height: 416px;
+}
+
+.img {
+    padding: 20px 0 20px 0;
+}
+
+
+.nav {
+    color: #000000(51, 255, 0);
+    text-align: center;
+    background-color: #008B8B;
+    padding: 30px;
+}
+
+.container {
+    text-align: center;
+   
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    background-color: #2bdbdb;
+    padding: 30px;
+    margin-top: 20px;
+}
