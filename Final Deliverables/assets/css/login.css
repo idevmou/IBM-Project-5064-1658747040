@@ -95,6 +95,17 @@ select {
 }
 /* ---------------------------------------------------------------------------------------------------------------------------------------- */
 
+/* container styles */
+
+.container {
+  margin-left: 50px;
+}
+
+
+
+
+
+
 /* styles of login page */
 
 .login {
@@ -213,6 +224,7 @@ select {
   letter-spacing: 0;
   margin-top: 41px;
   margin-left: 10px;
+  margin-left: -30px;
 }
 
 .email {
@@ -228,7 +240,8 @@ select {
   white-space: nowrap;
   letter-spacing: 0;
   margin-top: 32px;
-  margin-left: 10px;
+  margin-left: -30px;
+  /* padding-left: 0; */
   white-space: nowrap;
 }
 
@@ -251,7 +264,7 @@ select {
 }
 
 .username::placeholder {
-  color: #cecece99;
+  color: #79747499;
 }
 
 .username {
@@ -295,8 +308,8 @@ input:focus {
   white-space: nowrap;
 }
 
-.password::placeholder {
-  color: #cecece99;
+.password-1::placeholder {
+  color: #79747499;
 }
 
 .password-1 {
@@ -321,6 +334,7 @@ input:focus {
   /* min-height: 20px; */
   min-width: 362px;
   /* width: 20px; */
+  color: #79747499;
 }
 
 .forgot-password {
@@ -328,20 +342,28 @@ input:focus {
   line-height: 16px;
   min-height: 25px;
   white-space: nowrap;
+  color: #79747499;
+  /* text-decoration: none; */
 }
 
-.dont-have-an-account {
+.dont-have-account {
   letter-spacing: 0;
   line-height: 16px;
   min-height: 25px;
   min-width: 165px;
   white-space: nowrap;
+  color: #79747499;
 }
 
-.tittle {
+.forgot-password-1, .dont-have-account-1 {
+  text-decoration: none;
+}
+
+.title {
   color: var(--piction-blue);
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
+  /* font-size: var(--font-size-l); */
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 0.41px;
   line-height: 51px;
