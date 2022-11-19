@@ -1,0 +1,1007 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400, 700, 600| Roboto:400");
+.my-details {
+align-items: center;
+background-color: #f4fafc;
+display: flex;
+}
+.hidden,
+.hidden * {
+pointer-events: none;
+visibility: hidden;
+}
+.flex-col {
+align-items: center;
+display: flex;
+flex-direction: column;
+gap: 59px;
+min-height: 1004px;
+width: 100%;
+}
+.flex-col-1 {
+align-items: center;
+display: flex;
+flex-direction: column;
+min-height: 766px;
+width: 1366px;
+}
+.email {
+    align-self: flex-start;
+    letter-spacing: 0.15px;
+    line-height: 17px;
+    margin-left: 62px;
+    margin-top: 6px;
+    font-family: 'poppins-bold', sans-serif !important;
+    min-height: 26px;
+    white-space: nowrap;
+    text-decoration: none;
+    color:inherit;
+}
+
+    .overlap-group9 {
+    height: 482px;
+    margin-left: 5px;
+    margin-top: 11px;
+    position: relative;
+    width: 1335px;
+    }
+
+    .password {
+    left: 44px;
+    letter-spacing: 0.15px;
+    line-height: 17px;
+    font-family: 'poppins-bold', sans-serif !important;
+    position: absolute;
+    top: 403px;
+    white-space: nowrap;}
+
+    .profile {
+    left: 44px;
+    letter-spacing: 0.15px;
+    font-family: 'poppins-bold', sans-serif !important;
+    line-height: 17px;
+    position: absolute;
+    top: 318px;
+    white-space: nowrap;}
+    .name-1 {
+        color: var(--black);
+        font-family: 'poppins-bold', sans-serif !important;
+        font-size: 35px;
+        font-weight: 600;
+        left: 511px;
+        letter-spacing: 0.32px;
+        line-height: 35px;
+        position: absolute;
+        top: 381px;
+        white-space: nowrap;
+        
+    }
+
+        .update-your-photo-and-personal-details {
+        color: var(--black);
+        font-family: var(--font-family-poppins);
+        font-size: var(--font-size-1);
+        font-weight: 400;
+        left: 502px;
+        letter-spacing: 0.15px;
+        line-height: 17px;
+        position: absolute;
+        top: 440px;
+        white-space: nowrap;
+        }
+
+        .group-65:hover {
+        transform: scale(1.1);}
+
+        .group-65 {
+            align-items: flex-end;
+            background-color: var(--white);
+            border: 1px solid;
+            border-color: #7070704a;
+            border-radius:10px;
+            cursor: pointer;
+            display: flex;
+            height: 47px;
+            left: 983px;
+            min-width: 120px;
+            padding: 6.5px 28px;
+            position: absolute;
+            top: 398px;
+            transition: all 0.2s ease;}
+
+            .cancel {
+            color: var(--picton-blue);
+            font-family: var(--font-family-poppins);
+            font-size: var(--font-size-1);
+            font-weight: 600;
+            letter-spacing: 0.15px;
+            line-height: 17px;
+            min-height: 26px;
+            min-width: 64px;
+            white-space: nowrap;}
+            .group-64 {
+                align-items: flex-end;
+                background-color: var(--picton-blue);
+                border-radius: 10px;
+                cursor: pointer;
+                display: flex;
+                height: 47px;
+                justify-content: flex-end;
+                left: 1146px;
+                min-width: 120px;
+                padding: 5.5px 36px;
+                position: absolute;
+                top: 398px;
+                transition: all 0.2s ease;}
+
+                .group-64:hover {
+                transform: scale(1.1);
+                }
+                .save {
+                letter-spacing: 0.15px;
+                line-height: 17px;
+                min-height: 26px;
+                min-width: 45px;
+                white-space: nowrap;}
+                
+                .overlap-group1 {
+                    height: 482px;
+                    left: 0;
+                    position: absolute;
+                    top: 0;
+                    width: 1335px;
+                    }
+                    .group-12:hover {
+                    transform: scale(1.1);
+                    }
+                    
+                    .group-12 {
+                    align-items: flex-end;
+                    background-color: #EEFBFF;
+                    border: 1px solid;
+                  
+                    border-color: #04c4ff;
+                    border-radius: 10px;
+                    cursor: pointer;
+                    display: flex;
+                    height: 35px;
+                    justify-content: flex-end;
+                    left: 300px;
+                    min-width: 100px;
+                    padding: 11px 19px;
+                    position: absolute;
+                    top: 23px;
+                    transition: all 0.5s ease;}
+
+                    .construction {
+                        letter-spacing: 0.14px;
+                        line-height: 15px;
+                        min-height: 23px;
+                        min-width: 100px;
+                        white-space: nowrap;
+                        }
+                        .settings {
+                        color: #221f1f;
+                        font-family: 'poppins-bold', sans-serif !important;
+                        font-size: 31px;
+                        font-weight: 600;
+                        left: 32px;
+                        letter-spacing: 1.83px;
+                        line-height: 31px;
+                        position: absolute;
+                        top: 152px;
+                        white-space: nowrap;}
+
+                        .group-12-2:hover {
+                        transform: scale(1.1);}
+
+                        .group-12-2 {
+                            align-items: flex-end;
+                            background-color: #EEFBFF;
+                            border: 1px solid;
+                            border-color: #04c4ff;
+                            border-radius: 9px;
+                            cursor: pointer;
+                            display: flex;
+                            height: 35px;
+                            left: 712px;
+                            min-width: 130px;
+                            padding: 11px 44px;
+                            position: absolute;
+                            top: 23px;
+                            transition: all 0.5s ease;}
+
+                            .business-finance {
+                            letter-spacing: 0.14px;
+                            line-height: 15px;
+                            min-height: 23px;
+                            min-width: 147px;
+                            white-space: nowrap;}
+
+                            .group-63 {
+                                align-items: flex-start;
+                                background-color: #fffdfd00;
+                                border: 4px solid;
+                                display: flex;
+                                height: 47px;
+                                left: 1220px;
+                                min-width: 35px;
+                                padding: 9px 13px;
+                                position: absolute;
+                                top: 260px;
+                                border-color: #FFFFFF;
+                                border-radius: 10px;
+                                }
+                                
+                                
+                              
+                                    
+                                    .camera {
+                                    flex: 1;
+                                    margin-bottom: 5px;
+                                    margin-left: 12px;
+                                    margin-right: 11px;
+                                    margin-top: 6px;
+                                    width: 36px;}
+                                
+
+                                
+                                    .ellipse-6 {
+                                    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f63cb8);
+                                    border-radius: 92.5px; 
+                                    height: 141px;
+                                    left: 335px;
+                                    position: absolute;
+                                    top: 299px;
+                                    width: 141px;}
+                                    .rectangle-78 {
+                                    border-radius: 68px 0px 0px 0px;
+                                  
+                                    height: 216px;
+                                    left: 290px;
+                                    position: absolute;
+                                    top: 145px;
+                                    width: 1036px;}
+
+                                    .group-12-1 {
+                                        align-items: flex-end;
+                                        background-color: #EEFBFF;
+                                        border: 1px solid;
+                                        border-color: #03c4ff;
+                                        border-radius: 9px;
+                                        cursor: pointer;
+                                        display: flex;
+                                        height: 35px;
+                                        justify-content: flex-end;
+                                        left: 455px;  
+                                        min-width: 180px;
+                                        padding: 11px 29px;
+                                        position: absolute;
+                                        transition: all 0.5s ease;
+                                        ;
+                                        top: 23px;
+                                        }
+                                        .group-12-1:hover {
+                                            transform: scale(1.1)
+                                        }
+                                        .digitsl-communication {
+                                        letter-spacing: 0.14px;
+                                        line-height: 15px;
+                                        min-height: 23px;
+                                        min-width: 176px;
+                                        white-space: nowrap;}
+
+                                        .group-52 {
+                                            align-items: flex-end;
+                                            background-color:#EEFBFF;
+                                            border: 1px solid;
+                                            border-color: #0bb9ee;
+                                            border-radius: 10px;
+                                            cursor: pointer;
+                                            display: flex;
+                                            height: 35px;
+                                            left: 50px;
+                                            min-width: 190px;
+                                            padding: 11px 22px;
+                                            position: absolute;
+                                            top: 23px;
+                                            transition: all 0.5s ease;
+                                            }
+                                        
+                                            .group-52:hover {
+                                            transform: scale(1.1);
+                                            }
+                                            
+                                            .agri-natural-resources {
+                                            letter-spacing: 0.14px;
+                                            line-height: 15px;
+                                            min-height: 23px;
+                                            min-width: 187px;
+                                            white-space: nowrap;
+                                            }
+                                            .group-67:hover {
+                                            transform: scale (0.9);}
+
+                                            .group-67 {
+                                                align-items: flex-end;
+                                                /* background-color: #FFFFFF; */
+                                                /* border: 1px solid; */
+                                                
+                                                /* border-color: #0093ff; */
+                                                /* border-radius: 15px; */
+                                                font-family: 'poppins-bold', sans-serif !important;
+                                                
+                                                
+                                                display: flex;
+                                                height: 33px;
+                                                left: 19px;
+                                                min-width: 83px;
+                                                padding: 7.5px 24px;
+                                                position: absolute;
+                                                top: 218px;
+                                                transition: all 0.2s ease;}
+
+                                                .my-details-1 {
+                                                letter-spacing: 0.15px;
+                                                line-height: 19px;
+                                                min-height: 26px;
+                                                min-width: 93px;
+                                                white-space: nowrap;
+                                                
+                                            }
+
+                                                .ellipse-1-1 {
+                                                    border-radius: 85.5px;
+                                                    height: 131px;
+                                                    left: 340px;
+                                                    position: absolute;
+                                                    top: 304px;
+                                                    width: 131px;
+                                                    }
+                                                    
+                                                    .mask-group-1 {
+                                                    height: 230px;
+                                                    left: 0;
+                                                    position: absolute;
+                                                    top: 0;
+                                                    width: 1335px;
+                                                    
+                                                    }
+                                                    
+                                                    .it {
+                                                        letter-spacing: 0.14px;
+                                                        line-height: 15px;
+                                                        min-height: 23px;
+                                                        min-width: 14px;
+                                                        white-space: nowrap;
+                                                        align-items: center;
+                                                        }
+                                                    
+                                                    .group-53:hover {
+                                                        transform: scale (1.1);
+                                                        }
+                                                        .group-53 {
+                                                        align-items: flex-end;
+                                                        background-color: #EEFBFF;
+                                                        border: 1px solid;
+                                                        border-color: #0cc2fa;
+                                                        border-radius: 10px;
+                                                        cursor: pointer;
+                                                        display: flex;
+                                                        height: 35px;
+                                                        justify-content: flex-end;
+                                                        left: 970px;
+                                                        min-width: 25px;
+                                                        padding: 11px 19px;
+                                                        position: absolute;
+                                                        top: 23px;
+                                                        transition: all 0.2s ease;
+                                                        }
+                                                       
+
+                                                    
+                                                    
+                                                    .group-54 {
+                                                    align-items: flex-end;
+                                                    background-color: #EEFBFF;
+                                                    border: 1px solid;
+                                                    border-color: #00c0fb;
+                                                    border-radius: 9px;
+                                                    cursor: pointer;
+                                                    display: flex;
+                                                    height: 35px;
+                                                    justify-content: flex-end;
+                                                    left: 1054px;
+                                                    min-width: 140px;
+                                                    padding: 11px 52px;
+                                                    position: absolute;
+                                                    top: 23px;
+                                                    transition: all 0.5s ease;
+                                                    }
+                                                    
+                                                    .group-54:hover {
+                                                    transform: scale(1.1);}
+
+                                                    .digital-marketing {
+                                                    letter-spacing: 0.14px;
+                                                    line-height: 15px;
+                                                    min-height: 23px;
+                                                    min-width: 130px;
+                                                    white-space: nowrap;}
+
+
+                                                    .overlap-group2 {
+                                                        align-items: flex-start;
+                                                        background-color: #d8e7f2;
+                                                        display: flex;
+                                                        height: 156px;
+                                                        min-width: 1366px;
+                                                        padding: 14px 25px;
+                                                        }
+                                                        .icon-ionic-ios-notifications {
+                                                        align-items: center;
+                                                        display: flex;
+                                                        flex-direction: column;
+                                                        gap: 1px;
+                                                        margin-left: 123px;
+                                                        margin-top: 5px;
+                                                        min-height: 28px;
+                                                        width: 22px;
+                                                        }
+                                                        .path-7 {
+                                                            height: 23px;
+                                                            width: 22px;
+                                                        }
+                                                       
+                                                 
+                                                      
+                                                        .path-6 {
+                                                        height: 4px;
+                                                        margin-right: 0.04px;
+                                                        width: 7px;}
+
+                                                        .overlap-group {
+                                                            align-self: center;
+                                                            height: 86px;
+                                                            margin-top: 10px;
+                                                            position: relative;
+                                                            width: 246px;
+                                                            }
+                                                            .skill {
+                                                            color: #000000;
+                                                            font-family: 'poppins-bold', sans-serif !important;
+                                                            font-size: 60px;
+                                                            font-weight: 600;
+                                                            left: 0;
+                                                            letter-spacing: 0.48px;
+                                                            line-height: 60px;
+                                                            position: absolute;
+                                                            top:-40px;
+                                                            
+                                                            white-space: nowrap;
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            .place {
+                                                            color: #45A1E7;
+                                                            font-family: 'poppins-bold', sans-serif !important;
+                                                            font-size: 60px;
+                                                            font-weight: 600;
+                                                            left: 130px;
+                                                            letter-spacing: 0.48px;
+                                                            line-height: 60px;
+                                                            position: absolute;
+                                                            top: 0;
+                                                            white-space: nowrap;}
+
+                                                            .contact-us {
+                                                                letter-spacing: 0.15px;
+                                                                line-height: 17px;
+                                                                margin-left: 62px;
+                                                                margin-top: 70px;
+                                                                min-height: 26px;
+                                                                min-width: 102px;
+                                                                font-family: 'poppins-bold', sans-serif !important;
+                                                                font-size: 25px;
+                                                                white-space: nowrap;
+                                                                }
+                                                                .reporting {
+                                                                letter-spacing: 0.15px;
+                                                                line-height: 17px;
+                                                                margin-left: 62px;
+                                                                margin-top: 70px;
+                                                                min-height: 26px;
+                                                                min-width: 88px;
+                                                                font-size: 25px;
+                                                                font-family: 'poppins-bold', sans-serif !important;
+                                                                white-space: nowrap;
+                                                                }
+                                                                .ellipse-1 {
+                                                                border-radius: 26.5px;
+                                                                height: 53px;
+                                                                margin-left: 8px;
+                                                                width: 53px;
+                                                                }
+                                                               
+                                                                .place-1 {
+                                                                letter-spacing: 0.15px;
+                                                                line-height: 17px;
+                                                                margin-left: 166px;
+                                                                margin-top: 70px;
+                                                                min-height: 26px;
+                                                                font-family: 'poppins-bold', sans-serif !important;
+                                                                min-width: 54px;
+                                                                white-space: nowrap;
+                                                                font-size: 25px;
+                                                                }
+
+                                                                .flex-col-2 {
+                                                                    align-items: center;
+                                                                    display: flex;
+                                                                    flex-direction: column;
+                                                                    gap: 1px;
+                                                                    margin-left: 25px;
+                                                                    margin-top: 8.5px;
+                                                                    min-height: 53px;
+                                                                    width: 111px;
+                                                                    }
+                                                                    .name {
+                                                                    letter-spacing: 0.15px;
+                                                                    line-height: 17px;
+                                                                    margin-right: 7px;
+                                                                    min-height: 26px;
+                                                                    min-width: 74px;
+                                                                    white-space: nowrap;
+                                                                    }
+                                                                    .web-desiger {
+                                                                    color: #c3c3c3;
+                                                                    font-family: var(--font-family-poppins);
+                                                                    font-size: var(--font-size-1);
+                                                                    font-weight: 400;
+                                                                    letter-spacing: 0.15px;
+                                                                    line-height: 17px;
+                                                                    min-height: 26px;
+                                                                    min-width: 111px;
+                                                                    white-space: nowrap;
+
+                                                                    }
+                                                                    
+                                                                    .dashboard {
+                                                                        letter-spacing: 0.15px;
+                                                                        line-height: 17px;
+                                                                        margin-left: 63px;
+                                                                        margin-top: 70px;
+                                                                        min-height: 26px;
+                                                                        min-width: 100px;
+                                                                        font-family: 'poppins-bold', sans-serif !important;
+                                                                        font-size: 25px;
+                                                                        white-space: nowrap;
+                                                                        }
+                                                                        .flex-row {
+                                                                        align-items: flex-start;
+                                                                        display: flex;
+                                                                        height: 74px;
+                                                                        }
+                                                                        
+                                                                       
+                                                                        .username {
+                                                                        align-self: center;
+                                                                        letter-spacing: 0.15px;
+                                                                        line-height: 17px;
+                                                                        margin-bottom: 8.5px;
+                                                                        margin-left: 157px;
+                                                                        min-height: 26px;
+                                                                        min-width: 93px;
+                                                                        white-space: nowrap;
+                                                                        margin-right: 113px;
+                                                                        margin-top: 10px;
+                                                                        min-width: 1129px;
+                                                                        }
+                                                                        .drop-down-filled {
+                                                                        border: 0px solid;
+                                                                        border-color: transparent;
+                                                                        height: 56px;
+                                                                        margin-left: 67px;}
+
+                                                                        .overlap-group7 {
+                                                                            align-items: center;
+                                                                            background-color: var(--white);
+                                                                            border-radius: 10px;
+                                                                            display: flex;
+                                                                            height: 56px;
+                                                                            margin-left: 19px;
+                                                                            min-width: 489px;
+                                                                            padding: 0 35px;
+                                                                            }
+                                                                            
+                                                                            
+                                                                            .emma-r {
+                                                                            background-color: transparent;
+                                                                            border: 0;
+                                                                            height: 26px;
+                                                                            letter-spacing: 0.15px;
+                                                                            line-height: 17px;
+                                                                            padding: 0;
+                                                                            white-space: nowrap;
+                                                                            width: 238px;
+                                                                            }
+                                                                            
+                                                                            
+                                                                            .emma-r::placeholder {
+                                                                            color:#00000099;}
+                                                                            
+                                                                            input:focus {
+                                                                            outline: none;}
+                                                                            .notifications {
+                                                                            align-self: flex-end;
+                                                                            letter-spacing: 0.15px;
+                                                                            line-height: 17px;
+                                                                            min-height: 26px;
+                                                                            min-width: 114px;
+                                                                            white-space: nowrap;}
+
+                                                                            .flex-row-1 {
+                                                                                align-items: flex-end;
+                                                                                display: flex;
+                                                                                gap: 29px;
+                                                                                height: 179px;
+                                                                                margin-right: 18px;
+                                                                                min-width: 1224px;
+                                                                                }
+                                                                                .update {
+                                                                                letter-spacing: 0.15px;
+                                                                                line-height: 17px;
+                                                                                min-height: 26px;
+                                                                                min-width: 66px;
+                                                                                white-space: nowrap;
+                                                                                }
+                                                                                
+                                                                                .flex-col-3 {
+                                                                                align-items: flex-end;
+                                                                                display: flex;
+                                                                                flex-direction: column;
+                                                                                gap: 42px;
+                                                                                min-height: 179px;
+                                                                                width: 1129px;
+                                                                                }
+                                                                                
+                                                                                
+                                                                                .delete {
+                                                                                letter-spacing: 0.15px;
+                                                                                line-height: 17px;
+                                                                                margin-right: 49px;
+                                                                                min-height: 26px;
+                                                                                min-width: 58px;
+                                                                                white-space: nowrap;}
+
+                                                                                .flex-row-2 {
+                                                                                    align-items: flex-start;
+                                                                                    display: flex;
+                                                                                    height: 111px;
+                                                                                    min-width: 1129px;
+                                                                                    }
+                                                                                    .drop-down-filled-1 {
+                                                                                    border: 0px solid;
+                                                                                    border-color: transparent;
+                                                                                    height: 56px;
+                                                                                    margin-left: 87px;
+                                                                                    margin-top: 8.5px;
+                                                                                    }
+                                                                                    .overlap-group8 {
+                                                                                    align-items: flex-end;
+                                                                                    background-color: var(--white);
+                                                                                    border-radius: 10px;
+                                                                                    display: flex;
+                                                                                    height: 56px;
+                                                                                    margin-left: 19px;
+                                                                                    margin-top: 8.5px;
+                                                                                    min-width: 489px;
+                                                                                    padding: 14px 47px;
+                                                                                    }
+
+                                                                                    .wwwemmauicom {
+                                                                                        background-color: transparent;
+                                                                                        border: 0;
+                                                                                        height: 26px;
+                                                                                        letter-spacing: 0.15px;
+                                                                                        line-height: 17px;
+                                                                                        padding: 0;
+                                                                                        white-space: nowrap;
+                                                                                        width: 353px;
+                                                                                        }
+                                                                                        .wwwemmauicom::placeholder {
+                                                                                        color:#00000099;
+                                                                                        }
+                                                                                        
+                                                                                        .website {
+                                                                                        align-self: center;
+                                                                                        letter-spacing: 0.15px;
+                                                                                        line-height: 17px;
+                                                                                        margin-bottom: 29px;
+                                                                                        margin-left: 215px;
+                                                                                        min-height: 26px;
+                                                                                        min-width: 73px;
+                                                                                        white-space: nowrap;
+                                                                                        }
+                                                                                        .flex-col-4 {
+                                                                                        align-items: flex-start;
+                                                                                        display: flex;
+                                                                                        flex-direction: column;
+                                                                                        gap: 59px;
+                                                                                        min-height: 111px;
+                                                                                        width: 56px;}
+
+                                                                                        .place-2 {
+                                                                                            letter-spacing: 0.15px;
+                                                                                            line-height: 17px;
+                                                                                            min-height: 26px;
+                                                                                            white-space: nowrap;
+                                                                                            }
+                                                                                            .billing {
+                                                                                            letter-spacing: 0.15px;
+                                                                                            line-height: 17px;
+                                                                                            min-height: 26px;
+                                                                                            white-space: nowrap;
+                                                                                            }
+                                                                                            
+                                                                                            
+                                                                                            .flex-row-6 {
+                                                                                            align-items: flex-start;
+                                                                                            display: flex;
+                                                                                            gap: 14px;
+                                                                                            height: 37px;
+                                                                                            margin-left: 62px;
+                                                                                            margin-top: 25px;
+                                                                                            min-width: 252px;
+                                                                                           
+                                                                                            }
+                                                                                            
+                                                                                            .show-my-job-title-in-my-profile {
+                                                                                            align-self: flex-end;
+                                                                                            letter-spacing: 0.13px;
+                                                                                            line-height: 14px;
+                                                                                            min-height: 22px;
+                                                                                            min-width: 214px;
+                                                                                            white-space: nowrap;}
+
+                                                                                            .checkbox-selected {
+                                                                                                border: 0px solid;
+                                                                                                border-color: transparent;
+                                                                                                height: 24px;
+                                                                                                }
+                                                                                                .flex-row-5 {
+                                                                                                align-items: center;
+                                                                                                display: flex;
+                                                                                                gap: 152px;
+                                                                                                margin-left: 17px;
+                                                                                                margin-top: 94px;
+                                                                                                min-width: 717px;
+                                                                                                }
+                                                                                                .overlap-group4 {
+                                                                                                align-items: flex-end;
+                                                                                                background-color: var(--white);
+                                                                                                border-radius: 10px;
+                                                                                                display: flex;
+                                                                                                height: 56px;
+                                                                                                min-width: 489px;
+                                                                                                padding: 14px 33px;
+                                                                                                }
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                .web-designer {
+                                                                                                background-color: transparent;
+                                                                                                border: 0;
+                                                                                                height: 26px;
+                                                                                                letter-spacing: 0.15px;
+                                                                                                line-height: 17px;
+                                                                                                padding: 0;
+                                                                                                white-space: nowrap;
+                                                                                                width: 124px;}
+
+                                                                                                .web-designer::placeholder {
+                                                                                                    color:#00000099;
+                                                                                                    }
+                                                                                                .job-title {
+                                                                                                    letter-spacing: 0.15px;
+                                                                                                    line-height: 17px;
+                                                                                                    margin-top: 9px;
+                                                                                                    min-height: 26px;
+                                                                                                    min-width: 76px;
+                                                                                                    white-space: nowrap;
+                                                                                                    }
+                                                                                                .enter-an-alternative {
+                                                                                                    letter-spacing: 0.13px;
+                                                                                                    margin-top: 23px;
+                                                                                                    min-height: 64px;
+                                                                                                    min-width: 249px;
+                                                                                                    white-space: nowrap;
+                                                                                                    line-height: 14px;
+                                                                                                    margin-right: 459px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                .flex-row-4 {
+                                                                                                    align-items: flex-start;
+                                                                                                    display: flex;
+                                                                                                    gap: 155px;
+                                                                                                    margin-left: 210px;
+                                                                                                    margin-top: 80px;
+                                                                                                    min-width: 910px;}
+
+                                                                                                    .overlap-group6 {
+                                                                                                        align-items: flex-start;
+                                                                                                        background-color: var(--white);
+                                                                                                        border-radius: 18px;
+                                                                                                        display: flex;
+                                                                                                        height: 219px;
+                                                                                                        justify-content: flex-end;
+                                                                                                        min-width: 682px;
+                                                                                                        padding: 32px 20px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .add-a-short-bio {
+                                                                                                        background-color: transparent;
+                                                                                                        border: 0;
+                                                                                                        height: 148px;
+                                                                                                        letter-spacing: 0.13px;
+                                                                                                        line-height: 14px;
+                                                                                                        padding: 0;
+                                                                                                        white-space: nowrap;
+                                                                                                        width: 597px;
+                                                                                                        
+                                                                                                        }
+                                                                                                        
+                                                                                                        .add-a-short-bio::placeholder {
+                                                                                                        color:#00000099;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .your-bio {
+                                                                                                        letter-spacing: 0.15px;
+                                                                                                        line-height: 17px;
+                                                                                                        margin-top: 35.5px;
+                                                                                                        min-height: 26px;
+                                                                                                        min-width: 73px;
+                                                                                                        white-space: nowrap;}
+
+
+                                                                                                        .flex-row-7 {
+                                                                                                            align-items: flex-start;
+                                                                                                            display: flex;
+                                                                                                            gap: 107px;
+                                                                                                            height: 66px;
+                                                                                                            margin-left: 14px;
+                                                                                                            margin-top: 62px;
+                                                                                                            min-width: 720px;
+                                                                                                            }
+                                                                                                            
+                                                                                                            
+                                                                                                            .overlap-group3 {
+                                                                                                            align-items: flex-end;
+                                                                                                            background-color: var(--white);
+                                                                                                            border-radius: 10px;
+                                                                                                            display: flex;
+                                                                                                            height: 56px;
+                                                                                                            min-width: 489px;
+                                                                                                            padding: 14px 42px;
+                                                                                                            
+                                                                                                            }
+                                                                                                           
+                                                                                                            .enter-your-alternative-email-id::placeholder {
+                                                                                                            color:  #00000099 ;
+                                                                                                        }
+
+                                                                                                            .enter-your-alternative-email-id {
+                                                                                                                background-color: transparent;
+                                                                                                            border: 0;
+                                                                                                            height: 26px;
+                                                                                                            letter-spacing: 0.15px;
+                                                                                                            line-height: 17px;
+                                                                                                            padding: 0;
+                                                                                                            white-space: nowrap;
+                                                                                                            width: 267px;}
+                                                                                                            .alternative-contact-email {
+                                                                                                                align-self: flex-end;
+                                                                                                            letter-spacing: 0.15px;
+                                                                                                            line-height: 17px;
+                                                                                                            min-height: 52px;
+                                                                                                            min-width: 124px;
+                                                                                                            white-space: nowrap;
+                                                                                                            
+                                                                                                            }
+                                                                                                            
+                                                                                                            
+                                                                                            
+                                                                                                            
+                                                                                                            .flex-row-3 {
+                                                                                                            align-items: flex-end;
+                                                                                                            display: flex;
+                                                                                                            gap: 30px;
+                                                                                                            height: 58px;
+                                                                                                            margin-right: 184px;
+                                                                                                            margin-top: 19px;
+                                                                                                            min-width: 516px;}
+
+                                                                                                            .upload-container {
+                                                                                                                align-items: center;
+                                                                                                                background-color: var(--picton-blue);
+                                                                                                                border-radius: 10px;
+                                                                                                                display: flex;
+                                                                                                                gap: 30px;
+                                                                                                                height: 50px;
+                                                                                                                justify-content: flex-end;
+                                                                                                                min-width: 223px;
+                                                                                                                padding: 7.5px 30px;
+                                                                                                                }
+                                                                                                                
+                                                                                                                
+                                                                                                                .upload-img {
+                                                                                                                align-self: flex-end;
+                                                                                                                letter-spacing: 0.15px;
+                                                                                                                line-height: 17px;
+                                                                                                                min-height: 26px;
+                                                                                                                min-width: 103px;
+                                                                                                                white-space: nowrap;
+                                                                                                                }
+                                                                                                                
+                                                                                                                .icon-awesome-upload {
+                                                                                                                height: 28px;
+                                                                                                                margin-top: 2px;
+                                                                                                                width: 26px;}
+
+                                                                                                                .your-p-container {
+                                                                                                                align-items: flex-start;
+                                                                                                                display: flex;
+                                                                                                                flex-direction: column;
+                                                                                                                gap: 10px;
+                                                                                                                min-height: 58px;
+                                                                                                                width: 263px;}
+
+                                                                                                                .your-photo {
+                                                                                                                    letter-spacing: 0.15px;
+                                                                                                                    line-height: 17px;
+                                                                                                                    min-height: 26px;
+                                                                                                                    white-space: nowrap;
+                                                                                                                    }
+                                                                                                                    .this-will-be-displayed-on-your-profile {
+                                                                                                                    letter-spacing: 0.13px;
+                                                                                                                    line-height: 14px;
+                                                                                                                    margin-left: 2px;
+                                                                                                                    min-height: 22px;
+                                                                                                                    white-space: nowrap;
+                                                                                                                    }
+.edt-1 {
+    padding-top: 20px;
+}
+
+.edt-2 {
+    padding-top: 30px;
+}
+      
+
+.footer {
+    width: auto;
+    /* padding-top: 30%; */
+    margin-top: 30%;
+    /* display: flex; */
+    text-align: center;
+    /* background-color: #45A1E7; */
+}
+
+.footer-section {
+    display: flex;
+    /* flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px; */
+}
+
+.footer-p {
+    margin-top: 35px;
+}
+                                                                                    
+                                                                    
+                                                                    
+                                                                
+                                    
